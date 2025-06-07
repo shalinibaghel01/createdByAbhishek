@@ -1,0 +1,9 @@
+header{
+display: flex;
+padding-inline: 16px;
+padding-block: 20px;
+align-items: center;
+justify-content: space-between;
+background-color: rgb(20, 20, 22);
+color: aliceblue;
+}
